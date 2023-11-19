@@ -1,0 +1,46 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE CALCULADORA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+
+Linguagem? 
+ Java?
+ Outra?
+ IDE?
+Eclipse?
+Outra?
+Algum padrão de código?
+ Abstração? 
+ Herança?
+ Polimorfismo?
+ Encapsulamento?
+ Padrão de projeto?
+ Outros?
+
+
+
+Linguagens de Programação:
+O software de agenda foi desenvolvido utilizando HTML, CSS e JavaScript. Essas tecnologias são comumente empregadas para criar interfaces web interativas e oferecem uma abordagem eficaz para o desenvolvimento de aplicações leves e acessíveis através de navegadores.
+
+Ambiente de Desenvolvimento (IDE):
+O Visual Studio Code (VSCode) foi escolhido como a IDE para o desenvolvimento do software. O VSCode é uma ferramenta leve, altamente extensível e amplamente adotada para desenvolvimento web, proporcionando uma experiência de codificação eficiente.
+
+Padrão de Código:
+Não foi adotado um padrão de projeto específico para este projeto. No entanto, durante o desenvolvimento, foram seguidas práticas de código limpo, incluindo uma formatação consistente, nomes de variáveis significativos e comentários explicativos quando necessário.
+
+Princípios de Programação Web:
+O desenvolvimento seguiu os princípios fundamentais da programação web, incluindo:
+
+HTML (HyperText Markup Language): Utilizado para estruturar o conteúdo da aplicação, definindo elementos como formulários e listas.
+CSS (Cascading Style Sheets): Aplicado para estilizar e formatar a interface do usuário, proporcionando uma experiência visual atraente e coesa.
+JavaScript: Implementado para tornar a aplicação interativa, com funcionalidades como adição de eventos, notificações e interações dinâmicas.

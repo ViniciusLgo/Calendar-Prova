@@ -1,0 +1,70 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE CALCULADORA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+quem criou o teste, quem executou, data, se passou ou falhou e se falhou o que foi feito
+
+Teste 1
+
+Criado por: Alison
+Executado por: Vinicius
+Dado de Entrada: Funcionalidades básicas
+Descrição: Verificar se as funcionalidades básicas da aplicação, como navegação entre telas e acesso às principais funcionalidades, estão operando corretamente.
+Data e Hora do Compromisso: 05/11/2023 12:45
+Resultado: Passou
+
+Teste 2
+
+Criado por: Alison
+Executado por: Denilson Melo
+Dado de Entrada: Adição de Compromissos
+Descrição: Verificar se a adição de novos compromissos à agenda está funcionando corretamente.
+Data e Hora do Compromisso: 06/11/2023 14:30
+Resultado: Passou
+
+Teste 3
+
+Criado por: Alison
+Executado por: Maria Fernanda
+Dado de Entrada: Edição de Compromissos
+Descrição: Testar a capacidade de edição de compromissos existentes na agenda, incluindo a alteração de data, hora e descrição.
+Data e Hora do Compromisso: 07/11/2023 10:00
+Resultado: Passou
+
+Teste 4
+
+Criado por: Alison
+Executado por: Maria Clara
+Dado de Entrada: Remoção de Compromissos
+Descrição: Verificar se a remoção de compromissos da agenda está funcionando corretamente.
+Data e Hora do Compromisso: 08/11/2023 15:15
+Resultado: Passou
+
+Teste 5
+
+Criado por: Alison
+Executado por: Davi Ribeiro
+Dado de Entrada: Visualização de Agenda
+Descrição: Testar a exibição correta dos compromissos na agenda, assegurando que estão organizados por data e que os compromissos passados não são exibidos.
+Data e Hora do Compromisso: 09/11/2023 08:00
+Resultado: Passou
+
+Teste 6
+
+Criado por: Alison
+Executado por: Davi Ribeiro
+Dado de Entrada: Notificações
+Descrição: Verificar se as opções de configurações do usuário, como preferências de notificação e temas visuais, estão funcionando corretamente.
+Data e Hora do Compromisso: 10/11/2023 13:30
+Resultado: Passou
+

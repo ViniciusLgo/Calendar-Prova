@@ -1,0 +1,31 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE AGENDA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+Basta alguns parágrafos informando porque o projeto é justificável e porque o projeto é viável.
+ Qual a ideia do software? Que problemas o seu software resolve?
+ É possível ser feito até o último dia de aula?
+ A equipe dispõe de recursos?
+ Há interesse social no tema do projeto?
+
+O desenvolvimento de um software de agenda utilizando o modelo Scrum é uma proposta altamente justificável, considerando a crescente necessidade de organizar e otimizar as atividades diárias em um mundo cada vez mais dinâmico. A ideia central do software é proporcionar uma solução eficiente e intuitiva para o gerenciamento de compromissos, tarefas e eventos, abordando desafios comuns enfrentados por indivíduos e organizações na gestão do tempo.
+
+Viabilidade do Projeto:
+
+O projeto é viável por diversas razões. Primeiramente, o modelo Scrum permite uma abordagem ágil e flexível, garantindo entregas incrementais e a capacidade de adaptação às mudanças ao longo do desenvolvimento. Além disso, a equipe é composta por membros dedicados e especializados, o que contribui para a eficácia na execução das tarefas. Considerando o escopo do software de agenda, é factível ser concluído até o último dia de aula, desde que haja uma gestão eficiente do tempo e uma distribuição equitativa das responsabilidades.
+
+A equipe dispõe de recursos necessários para o desenvolvimento, incluindo habilidades técnicas, acesso a ferramentas de desenvolvimento e capacidade de colaboração. A diversidade de habilidades na equipe, representada pelos membros Alison, Denilson Melo, Davi Ribeiro, Maria Clara, Maria Fernanda e Vinicius Lago, proporciona uma perspectiva abrangente no processo de criação do software.
+
+Ademais, o interesse social no tema do projeto é evidente. Uma agenda digital eficiente beneficia não apenas indivíduos, mas também empresas e instituições que buscam otimizar seus processos de organização. A capacidade do software de simplificar a gestão do tempo pode resultar em maior produtividade, redução de estresse e melhoria na qualidade de vida, contribuindo positivamente para a sociedade como um todo.
+
+Em resumo, o desenvolvimento de um software de agenda utilizando o modelo Scrum é uma iniciativa justificável e viável, capaz de resolver problemas comuns relacionados à organização do tempo, e com potencial para impactar positivamente a sociedade.

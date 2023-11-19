@@ -1,0 +1,45 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE CALCULADORA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+
+Roda em quais sistemas operacionais?
+  Interage com quais hardwares?
+ mouse
+ teclado
+ monitor
+ caixa de som
+ outros?
+ Existe a possibilidade do software crescer? 
+Se sim, como? O código foi preparado para isso?
+
+
+Compatibilidade com Sistemas Operacionais:
+O software de agenda foi desenvolvido visando a máxima acessibilidade, sendo projetado para rodar em sistemas operacionais populares, como Windows, macOS e Linux. A implementação adota tecnologias multiplataforma, garantindo uma experiência consistente para os usuários independentemente do sistema operacional escolhido.
+
+Interação com Hardware:
+O software interage com os seguintes componentes de hardware:
+
+Mouse: Utilizado para navegação e interação com os elementos da interface.
+Teclado: Essencial para a entrada de dados, como a adição de eventos e a realização de buscas.
+Monitor: Exibe a interface gráfica do software, incluindo a visualização da agenda e demais funcionalidades.
+Caixa de Som: Podendo ser utilizado para notificações sonoras, como alertas de eventos iminentes.
+
+Possibilidade de Crescimento:
+
+Sim, o software foi projetado levando em consideração a possibilidade de crescimento. Para facilitar futuras expansões e atualizações, o código-fonte foi organizado de forma modular e seguindo boas práticas de programação. Isso inclui o uso de padrões de projeto que permitem a adição de novas funcionalidades de forma eficiente e sem comprometer a estabilidade do sistema.
+
+Preparação do Código para o Crescimento:
+O código-fonte foi documentado de maneira abrangente, facilitando a compreensão e a manutenção por parte da equipe de desenvolvimento. Além disso, foram adotadas práticas de programação sustentável, como a utilização de comentários explicativos, boas convenções de nomenclatura e a modularização do código em componentes reutilizáveis.
+
+O uso de tecnologias escaláveis e a implementação de uma arquitetura flexível permitem que o software se adapte facilmente a novos requisitos e funcionalidades. Dessa forma, a capacidade de crescimento do software é incorporada desde o início do desenvolvimento, preparando-o para evoluir de acordo com as necessidades futuras.

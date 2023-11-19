@@ -1,0 +1,88 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE CALCULADORA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+
+Requisitos funcionais?
+Qual objetivo do software?
+O que o software faz? 
+Quais são as principais funções do software?
+Requisitos não funcionais
+O desempenho do software é aceitável?
+Foi implementada alguma segurança do software?
+tela de login
+auditoria
+outras?
+
+
+Requisitos Funcionais:
+
+Objetivo do Software:
+O objetivo principal do software de agenda é proporcionar uma plataforma intuitiva e eficiente para o gerenciamento de compromissos, tarefas e eventos. O software visa facilitar a organização do tempo dos usuários, permitindo o agendamento, a visualização e a edição de eventos de forma prática e acessível.
+
+Principais Funções do Software:
+
+Cadastro de Compromissos: Permite aos usuários adicionar e detalhar compromissos, incluindo data, hora e descrição.
+Visualização de Agenda: Oferece uma visão clara e organizada dos compromissos agendados, possibilitando a visualização por dia, semana ou mês.
+Edição e Exclusão de Eventos: Permite a modificação e remoção de compromissos previamente agendados.
+Notificações: Implementa um sistema de notificações para lembrar os usuários sobre compromissos próximos.
+Sincronização: Possibilita a sincronização do software com calendários externos, como o Google Calendar.
+Requisitos Não Funcionais:
+
+Desempenho do Software:
+O desempenho do software deve ser otimizado para garantir uma resposta rápida às interações do usuário. A aplicação deve ser capaz de lidar eficientemente com um grande volume de dados, assegurando uma experiência de usuário fluída.
+
+Segurança do Software:
+A segurança é uma prioridade, sendo implementadas medidas para proteger os dados dos usuários. Isso inclui a utilização de criptografia para dados sensíveis, como senhas, e a adoção de práticas de segurança recomendadas para prevenir acessos não autorizados.
+
+Telas Principais:
+
+Tela de Login:
+
+Requer autenticação para garantir o acesso seguro ao software.
+Recuperação de senha para casos de esquecimento.
+Auditoria:
+
+Registra atividades importantes, como criação, modificação e exclusão de eventos.
+Fornece um histórico acessível apenas a usuários autorizados.
+Outras Telas:
+
+Página Principal: Exibe a agenda do usuário com opções para visualização diária, semanal e mensal.
+Cadastro de Compromissos: Permite a adição de novos eventos, incluindo informações detalhadas.
+Configurações: Oferece opções para personalização, como preferências de notificação e temas visuais.
+
+Ao abordar requisitos funcionais e não funcionais, o software busca não apenas atender às expectativas dos usuários em termos de funcionalidade, mas também garantir um desempenho aceitável e a segurança dos dados. O cuidado com detalhes como a tela de login, auditoria e outras funcionalidades contribui para uma experiência abrangente e confiável.
+
+
+
+
+
+
+
+
+
+
+
+Objetivo do software é fazer as 4 operações básicas da matemática;
+
+Funções
+RF1- usuário entrará com 2 números
+RF2- usuário escolherá a operação (somar, diminuir, multiplicar ou dividir) - Na Sprint 1 será feito somar e diminuir e na Sprint 2 será feito multiplicar e dividir
+RF3- sistema imprimirá o resultado
+
+RNF1 - resposta tem que ser dada em menos de 3 segundos
+RNF2- usar boas práticas de programação
+
+OBS - desnecessário implantar requisitos de segurança
+
+

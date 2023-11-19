@@ -1,0 +1,53 @@
+TRABALHO FINAL DE PROCESSOS DE SOFTWARE
+
+TEMA: DESENVOLVER UM SOFTWARE DE CALCULADORA
+
+MODELO: Scrum
+
+EQUIPE:
+1- ALISON
+2- DENILSON MELO
+3- DAVI RIBEIRO
+4- MARIA CLARA
+5- MARIA FERNANDA
+6- VINICIUS LAGO
+
+
+Flavio fez: tema, codificou, depurou erros e escrita testes 1, 2, 3, 4, 5, 6
+
+Dusse fez: requisitos, execução teste 1, 2, 3, 4, 5, 6 e vai apresentar
+
+
+Detalhamento das Atividades:
+
+ALISON:
+
+Criou o Código: Contribuiu para a codificação do software, revisou o código de outros membros da equipe, juntamente ao Davi
+Teste de Aceitação do Usuário: Garantiu que a aplicação atendesse aos requisitos do usuário.
+
+DENILSON MELO:
+
+Elaborou Requisitos Não Funcionais: Especificou requisitos relacionados ao desempenho, segurança e outros aspectos não funcionais.
+Execução e Documentação de Testes de Desempenho: Avaliou o desempenho da aplicação sob diferentes condições.
+
+DAVI RIBEIRO:
+
+Implementou Recursos de Sincronização: Adicionou funcionalidades para sincronizar a aplicação com outros calendários.
+Execução e Documentação de Testes de Integração: Testou a integração entre diferentes partes da aplicação.
+Desenvolveu Recursos de Notificação: Implementou notificações para lembrar os usuários de compromissos iminentes.
+Revisou o projeto
+
+MARIA CLARA:
+
+Projetou a Interface do Usuário: Criou uma interface de usuário intuitiva e atraente.
+Testes de Usabilidade: Verificou a facilidade de uso e a experiência do usuário.
+
+MARIA FERNANDA:
+
+Configurou o Ambiente de Desenvolvimento: Garantiu que o ambiente de desenvolvimento fosse adequado para a equipe.
+Execução e Documentação de Testes Unitários: Testou unidades individuais de código para garantir sua funcionalidade.
+
+VINICIUS LAGO:
+
+Documentou Casos de Uso: Especificou como os usuários interagem com a aplicação.
+Análise de Segurança da Aplicação: Identificou e abordou possíveis vulnerabilidades de segurança.
